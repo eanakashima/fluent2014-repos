@@ -18,3 +18,6 @@ to this list if you know of more! (Talks are listed alphabetically by title.)
 
 * [es-analysis/plato](https://github.com/es-analysis/plato)
 
+### Polymer: Web Components in Action (Eric Bidelman)
+
+* [polymer/polymer](https://github.com/polymer/polymer)
