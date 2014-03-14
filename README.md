@@ -5,6 +5,10 @@ mentioned during [#fluentconf 2014](http://fluentconf.com/fluent2014). Please se
 [PR](https://help.github.com/articles/using-pull-requests) and add
 to this list if you know of more! (Talks are listed alphabetically by title.)
 
+### Assert Accessible (Alice Boxhall, Cameron Cundiff)
+
+* [casecommons/capybara-accessible](https://github.com/casecommons/capybara-accessible)
+* [GoogleChrome/accessibility-developer-tools](https://github.com/GoogleChrome/accessibility-developer-tools)
 
 ### Designing for Front-End Page Speed (Lara Swanson)
 
