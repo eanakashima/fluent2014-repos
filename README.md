@@ -13,3 +13,8 @@ to this list if you know of more! (Talks are listed alphabetically by title.)
 * [giakki/uncss](https://github.com/giakki/uncss)
 * [addyosmani/grunt-uncss](https://github.com/addyosmani/grunt-uncss)
 * [operasoftware/ucss](https://github.com/operasoftware/ucss)
+
+### Managing JavaScript Complexity in Teams (Jarrod Overson)
+
+* [es-analysis/plato](https://github.com/es-analysis/plato)
+
