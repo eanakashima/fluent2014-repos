@@ -14,6 +14,10 @@ to this list if you know of more! (Talks are listed alphabetically by title.)
 * [addyosmani/grunt-uncss](https://github.com/addyosmani/grunt-uncss)
 * [operasoftware/ucss](https://github.com/operasoftware/ucss)
 
+### HTML Form Elements and Attributes (Estelle Weyl) 
+
+* [estelle/forms](https://github.com/estelle/forms)
+
 ### Managing JavaScript Complexity in Teams (Jarrod Overson)
 
 * [es-analysis/plato](https://github.com/es-analysis/plato)
