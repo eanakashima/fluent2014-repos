@@ -26,6 +26,10 @@ to this list if you know of more! (Talks are listed alphabetically by title.)
 
 * [estelle/forms](https://github.com/estelle/forms)
 
+### In Pursuit of the Holy Grail: Building Isomorphic JavaScript Apps (Spike Brehm)
+
+* [polyglot.js](http://airbnb.github.io/polyglot.js/)
+
 ### Managing JavaScript Complexity in Teams (Jarrod Overson)
 
 * [es-analysis/plato](https://github.com/es-analysis/plato)
@@ -34,6 +38,3 @@ to this list if you know of more! (Talks are listed alphabetically by title.)
 
 * [polymer/polymer](https://github.com/polymer/polymer)
 
-### In Pursuit of the Holy Grail: Building Isomorphic JavaScript Apps (Spike Brehm)
-
-* [polyglot.js](http://airbnb.github.io/polyglot.js/)
