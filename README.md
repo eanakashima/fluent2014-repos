@@ -33,3 +33,7 @@ to this list if you know of more! (Talks are listed alphabetically by title.)
 ### Polymer: Web Components in Action (Eric Bidelman)
 
 * [polymer/polymer](https://github.com/polymer/polymer)
+
+### In Pursuit of the Holy Grail: Building Isomorphic JavaScript Apps (Spike Brehm)
+
+* [polyglot.js](http://airbnb.github.io/polyglot.js/)
