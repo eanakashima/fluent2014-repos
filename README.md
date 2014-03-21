@@ -13,6 +13,7 @@ to this list if you know of more! (Talks are listed alphabetically by title.)
 ### Designing for Front-End Page Speed (Lara Swanson)
 
 * [scottjehl/picturefill](https://github.com/scottjehl/picturefill)
+* [pornel/ImageOptim](https://github.com/pornel/ImageOptim)
 
 ### Everything is a Polyfill (Rachel Myers, Emily Nakashima)
 
@@ -37,4 +38,8 @@ to this list if you know of more! (Talks are listed alphabetically by title.)
 ### Polymer: Web Components in Action (Eric Bidelman)
 
 * [polymer/polymer](https://github.com/polymer/polymer)
+
+### Static Types are Overrated: The Dynamic Duo - Loose Types and Object Extension (Eric Elliott)
+
+* [marijnh/tern](https://github.com/marijnh/tern)
 
