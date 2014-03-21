@@ -13,6 +13,7 @@ to this list if you know of more! (Talks are listed alphabetically by title.)
 ### Designing for Front-End Page Speed (Lara Swanson)
 
 * [scottjehl/picturefill](https://github.com/scottjehl/picturefill)
+* [pornel/ImageOptim](https://github.com/pornel/ImageOptim)
 
 ### Everything is a Polyfill (Rachel Myers, Emily Nakashima)
 
