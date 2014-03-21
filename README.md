@@ -39,3 +39,7 @@ to this list if you know of more! (Talks are listed alphabetically by title.)
 
 * [polymer/polymer](https://github.com/polymer/polymer)
 
+### Static Types are Overrated: The Dynamic Duo - Loose Types and Object Extension (Eric Elliott)
+
+* [marijnh/tern](https://github.com/marijnh/tern)
+
